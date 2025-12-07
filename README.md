@@ -182,12 +182,12 @@ The main interface consists of 8 tabs:
 )
 
 ### Application Controls
-![App Controls](<img width="1897" height="947" alt="image" src="https://github.com/user-attachments/assets/98c3f7ff-1ec6-498e-a625-df766edf077a" />
-)
+<img width="1897" height="947" alt="image" src="https://github.com/user-attachments/assets/aceaa22c-94e8-4d8b-a56e-bbce8a8bfff7" />
+
 
 ### Network Diagnostics
-![Diagnostics](<img width="1890" height="811" alt="image" src="https://github.com/user-attachments/assets/ec304460-d8ee-4181-889b-cfa71b10c11d" />
-)
+<img width="1897" height="947" alt="image" src="https://github.com/user-attachments/assets/e71a44c9-87f2-43ea-a7ee-7ab3d3c4f5cd" />
+
 
 </details>
 
