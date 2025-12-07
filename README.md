@@ -1,4 +1,4 @@
-# Defensiq Network Security
+<img width="1907" height="1002" alt="image" src="https://github.com/user-attachments/assets/d652e06c-ed00-4bf9-b6b8-5301b58692ac" /># Defensiq Network Security
 
 <div align="center">
 
@@ -178,13 +178,16 @@ The main interface consists of 8 tabs:
 <summary>Click to expand screenshots</summary>
 
 ### Dashboard
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](<img width="1907" height="1002" alt="image" src="https://github.com/user-attachments/assets/3d89fde2-abe8-4a7f-ae63-91366975bc2d" />
+)
 
 ### Application Controls
-![App Controls](assets/screenshots/app-controls.png)
+![App Controls](<img width="1897" height="947" alt="image" src="https://github.com/user-attachments/assets/98c3f7ff-1ec6-498e-a625-df766edf077a" />
+)
 
 ### Network Diagnostics
-![Diagnostics](assets/screenshots/diagnostics.png)
+![Diagnostics](<img width="1890" height="811" alt="image" src="https://github.com/user-attachments/assets/ec304460-d8ee-4181-889b-cfa71b10c11d" />
+)
 
 </details>
 
@@ -343,8 +346,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Found a bug? Have a feature request?
 
-- 🐛 [Open an issue](https://github.com/yourusername/defensiq/issues)
-- 💡 [Discussions](https://github.com/yourusername/defensiq/discussions)
+- 🐛 [Open an issue](https://github.com/defensiq/Defensiq-netSecure/tree/main)
+- 💡 [Discussions]([https://github.com/yourusername/defensiq/discussions](https://github.com/defensiq/Defensiq-netSecure/tree/main))
 
 ---
 
