@@ -1,0 +1,30 @@
+# Defensiq Network Security - Example Blocklist
+# Lines starting with # are comments and will be ignored
+# Add one domain or IP per line
+
+# Malware domains
+malware-distribution.com
+trojan-host.net
+ransomware-c2.org
+
+# Phishing sites
+fake-bank-login.com
+paypal-verify-scam.net
+
+# Advertising/Tracking
+doubleclick.net
+googletagmanager.com
+facebook-analytics.com
+
+# Gambling
+online-casino-example.com
+betting-site.net
+
+# Custom blocks
+unwanted-site.com
+blocked-domain.org
+
+# Example IPs (TEST-NET addresses - safe for examples)
+192.0.2.1
+198.51.100.1
+203.0.113.1

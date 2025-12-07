@@ -1,0 +1,47 @@
+{
+    "app": {
+        "theme": "light",
+        "auto_start": false,
+        "minimize_to_tray": true,
+        "show_notifications": true
+    },
+    "monitoring": {
+        "enabled": true,
+        "capture_mode": "passive",
+        "update_interval": 1000,
+        "log_all_traffic": false
+    },
+    "filtering": {
+        "enabled": false,
+        "block_mode": "drop",
+        "log_blocked": true
+    },
+    "cia_triad": {
+        "confidentiality_checks": true,
+        "integrity_checks": true,
+        "availability_checks": true,
+        "http_warning": true,
+        "dos_threshold": 1000
+    },
+    "blocklist": {
+        "enabled": false,
+        "categories": {
+            "malware": true,
+            "phishing": true,
+            "advertising": false,
+            "gambling": false,
+            "adult": false
+        }
+    },
+    "windows": {
+        "firewall_integration": false,
+        "defender_monitoring": true,
+        "event_viewer_import": false
+    },
+    "logging": {
+        "level": "INFO",
+        "max_log_size_mb": 100,
+        "retention_days": 30,
+        "export_format": "csv"
+    }
+}

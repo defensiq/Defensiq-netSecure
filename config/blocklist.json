@@ -1,0 +1,14 @@
+{
+  "domains": [
+    {
+      "value": "google.com",
+      "category": "custom"
+    },
+    {
+      "value": "support.apple.com",
+      "category": "custom"
+    }
+  ],
+  "ips": [],
+  "patterns": []
+}

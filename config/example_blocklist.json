@@ -1,0 +1,38 @@
+{
+    "domains": [
+        {
+            "value": "malware-example.com",
+            "category": "malware"
+        },
+        {
+            "value": "phishing-test.net",
+            "category": "phishing"
+        },
+        {
+            "value": "ads-network.com",
+            "category": "advertising"
+        },
+        {
+            "value": "tracker.example.com",
+            "category": "advertising"
+        },
+        {
+            "value": "casino-spam.com",
+            "category": "gambling"
+        },
+        {
+            "value": "suspicious-site.org",
+            "category": "custom"
+        }
+    ],
+    "ips": [
+        {
+            "value": "192.0.2.1",
+            "category": "malware"
+        },
+        {
+            "value": "198.51.100.10",
+            "category": "phishing"
+        }
+    ]
+}

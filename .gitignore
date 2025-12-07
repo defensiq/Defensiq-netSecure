@@ -11,9 +11,7 @@ env/
 ENV/
 .venv
 
-# PyInstaller
-build/
-dist/
+
 
 # IDE
 .vscode/

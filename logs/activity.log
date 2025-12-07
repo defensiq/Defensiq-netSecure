@@ -1,0 +1,31 @@
+[2025-12-07 19:47:24] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 19:49:47] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 19:52:17] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 19:52:47] [INFO] [defensiq.general] SERVICE_STARTED: Packet filtering engine started | {}
+[2025-12-07 19:53:23] [INFO] [defensiq.general] SERVICE_STARTED: Packet filtering engine started | {}
+[2025-12-07 19:53:23] [INFO] [defensiq.general] SERVICE_STARTED: Packet filtering engine started | {}
+[2025-12-07 20:04:44] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 20:06:04] [INFO] [defensiq.general] SERVICE_STARTED: Packet filtering engine started | {}
+[2025-12-07 20:06:04] [INFO] [defensiq.general] SERVICE_STARTED: Packet filtering engine started | {}
+[2025-12-07 20:18:12] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 20:24:14] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 20:24:35] [INFO] [defensiq.general] CONFIG_CHANGED: DoH resolved google.com to ['142.251.37.78'] | {'domain': 'google.com', 'addresses': ['142.251.37.78']}
+[2025-12-07 20:24:49] [INFO] [defensiq.general] SERVICE_STARTED: Packet filtering engine started | {}
+[2025-12-07 20:24:49] [INFO] [defensiq.general] SERVICE_STARTED: Packet filtering engine started | {}
+[2025-12-07 20:31:16] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 20:34:46] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 20:59:20] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 21:00:06] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 21:02:03] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 21:02:16] [INFO] [defensiq.general] SERVICE_STARTED: Packet filtering engine started | {}
+[2025-12-07 21:02:16] [INFO] [defensiq.general] CONFIG_CHANGED: Packet filtering enabled | {}
+[2025-12-07 21:02:16] [INFO] [defensiq.general] SERVICE_STARTED: Packet filtering engine started | {}
+[2025-12-07 21:02:16] [INFO] [defensiq.general] CONFIG_CHANGED: Packet filtering enabled | {}
+[2025-12-07 21:02:17] [INFO] [defensiq.general] CONFIG_CHANGED: Packet filtering disabled | {}
+[2025-12-07 21:02:17] [INFO] [defensiq.general] CONFIG_CHANGED: Packet filtering disabled | {}
+[2025-12-07 21:03:14] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 21:04:11] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 21:04:35] [INFO] [defensiq.general] SERVICE_STARTED: Packet filtering engine started | {}
+[2025-12-07 21:04:35] [INFO] [defensiq.general] CONFIG_CHANGED: Packet filtering enabled | {}
+[2025-12-07 21:06:48] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
+[2025-12-07 21:13:58] [INFO] [defensiq.general] SERVICE_STARTED: GUI launched | {}
