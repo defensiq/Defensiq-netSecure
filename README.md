@@ -76,7 +76,7 @@
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/defensiq.git](https://github.com/defensiq/Defensiq-netSecure.git)
+git clone https://github.com/defensiq/Defensiq-netSecure.git
 cd defensiq
 
 # Install dependencies
