@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Defensiq Logo](logs/Defesniq.logo (1) (1).png)
+![Defensiq Logo](https://github.com/defensiq/Defensiq-netSecure/blob/main/logs/Defesniq.logo%20(1)%20(1).png)
 
 **Ethical Windows Network Security & Monitoring Application**
 
