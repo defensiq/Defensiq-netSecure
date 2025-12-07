@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Defensiq Logo](assets/logo.png)
+![Defensiq Logo](logs/Defesniq.logo (1) (1).png)
 
 **Ethical Windows Network Security & Monitoring Application**
 
