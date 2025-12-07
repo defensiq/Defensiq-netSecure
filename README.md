@@ -65,7 +65,7 @@
 
 ### Option 1: Download Pre-built Executable (Recommended)
 
-1.[![Download](https://img.shields.io/badge/Download-Defensiq.exe-blue?style=for-the-badge)](https://github.com/defensiq/Defensiq-netSecure/blob/main/dist/Defensiq-Release/Defensiq.exe)
+1  .[![Download](https://img.shields.io/badge/Download-Defensiq.exe-blue?style=for-the-badge)](https://github.com/defensiq/Defensiq-netSecure/blob/main/dist/Defensiq-Release/Defensiq.exe)
 
 
 2. **Extract** the ZIP file to your desired location
