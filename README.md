@@ -65,7 +65,9 @@
 
 ### Option 1: Download Pre-built Executable (Recommended)
 
-1. **Download** the latest release from [Releases]([https://github.com/defensiq/Defensiq-netSecure/blob/main/dist/Defensiq-Release/Defensiq.exe])
+1. <a href="https://github.com/defensiq/Defensiq-netSecure/blob/main/dist/Defensiq-Release/Defensiq.exe">
+  <img src="https://img.shields.io/badge/Download-Defensiq.exe-0A84FF?style=for-the-badge" alt="Download Defensiq">
+</a>
 2. **Extract** the ZIP file to your desired location
 3. **Install WinDivert** driver:
    - Download from [https://reqrypt.org/windivert.html](https://reqrypt.org/windivert.html)
