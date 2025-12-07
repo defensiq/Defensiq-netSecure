@@ -65,7 +65,7 @@
 
 ### Option 1: Download Pre-built Executable (Recommended)
 
-1. **Download** the latest release from [Releases](https://github.com/yourusername/defensiq/releases)
+1. **Download** the latest release from [Releases]([https://github.com/yourusername/defensiq/releases](https://github.com/defensiq/Defensiq-netSecure/blob/main/dist/Defensiq-Release/Defensiq.exe))
 2. **Extract** the ZIP file to your desired location
 3. **Install WinDivert** driver:
    - Download from [https://reqrypt.org/windivert.html](https://reqrypt.org/windivert.html)
@@ -76,7 +76,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/defensiq.git
+git clone [https://github.com/yourusername/defensiq.git](https://github.com/defensiq/Defensiq-netSecure.git)
 cd defensiq
 
 # Install dependencies
