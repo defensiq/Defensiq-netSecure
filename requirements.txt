@@ -1,0 +1,10 @@
+PySide6
+pydivert
+psutil
+pywin32
+pandas
+matplotlib
+requests
+dnspython
+cryptography
+schedule
